@@ -14,12 +14,7 @@ import { AngularFireModule } from '@angular/fire';
 import { AngularFireAuthModule } from '@angular/fire/auth';
 
 const firebaseAuth = {
-    apiKey: "AIzaSyD4SHkA3lEOqeB3YdtVx0fM0ebdTAv7dMA",
-    authDomain: "test-project-a8db1.firebaseapp.com",
-    databaseURL: "https://test-project-a8db1.firebaseio.com",
-    projectId: "test-project-a8db1",
-    storageBucket: "test-project-a8db1.appspot.com",
-    messagingSenderId: "235958021303"
+/*Add your fieBase Authentication key */
   };
 
 @NgModule({
